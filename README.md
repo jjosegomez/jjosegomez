@@ -8,9 +8,11 @@
 
 🌟 I'm an avid learner and thrive in collaborative environments. My experience as a Software Development Intern at Eversana Intouch has exposed me to agile methodologies, CI/CD pipelines, and valuable teamwork skills.
 
-📈 Excited to be part of the tech revolution, I'm always eager to take on new challenges and push boundaries. Let's connect and build something incredible together! 😄
-📫 You can through my LinkedIn: https://www.linkedin.com/in/juan-j-gomez-59174a189/
-Email: juanjo.gomez2000@hotmail.com
+📈 Excited to be part of the tech revolution, I'm always eager to take on new challenges and push boundaries. Let's connect and build something incredible together! 😄.
+
+Contact Me:
+📧 Email: jjgomezswe@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/juan-j-gomez-59174a189/
 
 <!---
 jjosegomez/jjosegomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
