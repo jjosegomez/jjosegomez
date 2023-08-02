@@ -10,8 +10,9 @@
 
 📈 Excited to be part of the tech revolution, I'm always eager to take on new challenges and push boundaries. Let's connect and build something incredible together! 😄.
 
-Contact Me: <br>
-📧 Email: jjgomezswe@gmail.com <br>
+Contact Me:
+
+📧 Email: jjgomezswe@gmail.com | 
 💼 LinkedIn: https://www.linkedin.com/in/juan-j-gomez-59174a189/
 
 <!---
