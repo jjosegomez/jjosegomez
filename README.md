@@ -13,7 +13,7 @@
 Contact Me:
 
 📧 Email: jjgomezswe@gmail.com | 
-💼 LinkedIn: https://www.linkedin.com/in/juan-j-gomez-59174a189/
+💼 LinkedIn: https://www.linkedin.com/in/jjgomezswe/
 
 <!---
 jjosegomez/jjosegomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
