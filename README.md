@@ -1,6 +1,6 @@
 👋 Hello there! I'm Juan J. Gomez, a dedicated software engineer with a strong passion for creating seamless user experiences and exploring cutting-edge technologies. 💻 My expertise lies in web development using HTML, CSS, JavaScript, React, Node.js, and Express, complemented by a deep understanding of Python, AI, and computer science algorithms.
 
-🚀 I've worked on various web development projects, crafting engaging user interfaces and ensuring high-performance results. Additionally, I have experience in Python AI, where I've applied machine learning and natural language processing techniques to develop exciting AI applications.
+🚀 I've worked on various web development projects, crafting engaging user interfaces and ensuring high-performance results. Additionally, I have experience in  AI, where I've applied machine learning and natural language processing techniques to develop exciting AI applications using Python sklean, pytorch, machine learning model, public AI APIs and more.
 
 🧠 On the computer science side, I thrive in algorithm design and optimization. My proficiency in C++ has allowed me to implement efficient and elegant solutions for complex computational problems.
 
